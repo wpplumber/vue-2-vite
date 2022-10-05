@@ -1,4 +1,5 @@
-# book
+# Description
+This is a Vue 2 project using Vite and Pinia store for usage as startup vue 2 template.
 
 ## Project setup
 ```
@@ -14,11 +15,3 @@ yarn serve
 ```
 yarn build
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
